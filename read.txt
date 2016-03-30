@@ -1,3 +1,7 @@
 dghsghdkaj
 
+<<<<<<< HEAD
 dfhjdfjdfs
+=======
+dfhjdfjdfsdfsj
+>>>>>>> dev
